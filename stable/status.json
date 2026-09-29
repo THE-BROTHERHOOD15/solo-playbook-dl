@@ -1,45 +1,75 @@
 {
-  "updated_at": "2026-09-28T20:10:25-04:00",
+  "updated_at": "2026-09-28T20:16:01-04:00",
   "timezone": "America/New_York",
   "source": "Stable push_mobile_status.py",
   "honest": true,
-  "note": "No fake 100%. Abby plate C LOCKED. Faith Wan 0 PASS on disk. Wan path unlocked but Tower VRAM held by ollama.",
+  "note": "2026-09-28 audit board. No fake 100%. Sam NOT DONE. Voice refs 0 for all content reps. Tower VRAM held by ollama.",
   "reps": [
     {
       "id": "tammy",
       "name": "Tammy",
-      "pct": 68,
-      "note": "stills OK; Wan RIGHT weak; voice 0; dist drafts"
+      "pct": 50,
+      "note": "9 Wan PASS; stills OK; plate mole-side review; voice 0; dist drafts"
     },
     {
       "id": "tessa",
       "name": "Tessa",
-      "pct": 40,
-      "note": "Cm plate LOCKED; 3 Wan in PROMOTE/_MISFILED; voice 0"
+      "pct": 36,
+      "note": "Cm LOCKED; 8 stills unreviewed; 0 clips (old 3 were Tammy); voice 0"
     },
     {
       "id": "abby",
       "name": "Abby",
       "pct": 32,
-      "note": "plate C LOCKED; C stills PASS; Wan C1 0 PASS; voice 0"
+      "note": "plate C LOCKED; 11 stills; Wan C1 0 promoted (3 on Tower un-QC'd); voice 0"
     },
     {
       "id": "faith",
       "name": "Faith",
-      "pct": 32,
-      "note": "LOCKED; 4 F1 PASS stills; Wan 0 PASS; voice/dist 0"
+      "pct": 30,
+      "note": "LOCKED mole R; 4 F1 PASS stills; Wan 0 PASS; voice/dist 0"
     },
     {
       "id": "sam",
       "name": "Sam",
       "pct": 72,
-      "note": "NOT DONE without Joshua"
+      "note": "NOT DONE without Joshua (D7 live RT open)"
     },
     {
       "id": "wren",
       "name": "Wren",
-      "pct": 15,
-      "note": "R2 age-reject; plate UNSET; R3 blocked on GPU"
+      "pct": 12,
+      "note": "plate UNSET; R3 8 fronts adult but read >27; voice 0"
+    },
+    {
+      "id": "inez",
+      "name": "Inez",
+      "pct": 12,
+      "note": "profile only; no plate; voice 0"
+    },
+    {
+      "id": "helen",
+      "name": "Helen/Nessa",
+      "pct": 10,
+      "note": "profile only; name conflict Helen vs Nessa"
+    },
+    {
+      "id": "june",
+      "name": "June",
+      "pct": 10,
+      "note": "8 plateA cands; none locked"
+    },
+    {
+      "id": "ada",
+      "name": "Ada",
+      "pct": 10,
+      "note": "8 plateA cands; none locked"
+    },
+    {
+      "id": "signe",
+      "name": "Signe",
+      "pct": 10,
+      "note": "8 plateA cands; mole-side FAIL; none locked"
     }
   ],
   "flags": {
