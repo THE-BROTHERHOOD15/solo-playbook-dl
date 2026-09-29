@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T20:20:46-04:00",
+  "updated_at": "2026-09-28T20:23:00-04:00",
   "timezone": "America/New_York",
   "source": "Stable push_mobile_status.py",
   "honest": true,
@@ -14,14 +14,14 @@
     {
       "id": "tessa",
       "name": "Tessa",
-      "pct": 36,
-      "note": "Cm LOCKED; 8 stills unreviewed; 0 clips (old 3 were Tammy); voice 0"
+      "pct": 38,
+      "note": "Cm LOCKED; 2 Wan Cm clips PASS; 8 stills unreviewed; voice 0"
     },
     {
       "id": "abby",
       "name": "Abby",
       "pct": 32,
-      "note": "plate C LOCKED; 11 stills; Wan C1 0 promoted (3 on Tower un-QC'd); voice 0"
+      "note": "plate C LOCKED; 11 stills; Wan C1 4/4 FAIL; voice 0"
     },
     {
       "id": "faith",
