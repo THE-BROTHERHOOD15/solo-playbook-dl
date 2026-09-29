@@ -1,45 +1,51 @@
 {
-  "updated_at": "2026-09-28T20:05:02-04:00",
+  "updated_at": "2026-09-28T20:08:37-04:00",
   "timezone": "America/New_York",
   "source": "Stable push_mobile_status.py",
   "honest": true,
-  "note": "No fake 100%. Abby UNSET. Wan I2V unlocked.",
+  "note": "No fake 100%. Abby plate C LOCKED. Faith Wan 0 PASS on disk. Wan path unlocked but Tower VRAM held by ollama.",
   "reps": [
     {
       "id": "tammy",
       "name": "Tammy",
       "pct": 68,
-      "note": "PROMOTE bathtub+collar+door; pool/silk PARKED"
+      "note": "stills OK; Wan RIGHT weak; voice 0; dist drafts"
     },
     {
       "id": "tessa",
       "name": "Tessa",
       "pct": 40,
-      "note": "3 Wan PROMOTE synced; voice 0"
+      "note": "Cm plate LOCKED; 3 Wan in PROMOTE/_MISFILED; voice 0"
     },
     {
       "id": "abby",
       "name": "Abby",
       "pct": 32,
-      "note": "B LOCKED; B1 Wan trio PROMOTE; voice 0"
+      "note": "plate C LOCKED; C stills PASS; Wan C1 0 PASS; voice 0"
     },
     {
       "id": "faith",
       "name": "Faith",
-      "pct": 65,
-      "note": "F1 stills+Wan PROMOTE; voice/dist 0"
+      "pct": 32,
+      "note": "LOCKED; 4 F1 PASS stills; Wan 0 PASS; voice/dist 0"
     },
     {
       "id": "sam",
       "name": "Sam",
       "pct": 72,
       "note": "NOT DONE without Joshua"
+    },
+    {
+      "id": "wren",
+      "name": "Wren",
+      "pct": 15,
+      "note": "R2 age-reject; plate UNSET; R3 blocked on GPU"
     }
   ],
   "flags": {
-    "wan_i2v": "unlocked",
+    "wan_i2v": "unlocked_vram_contended",
     "fillers": "matched",
-    "abby_qc_lock": "UNSET",
+    "abby_qc_lock": "LOCKED_C",
     "faith_qc_lock": "LOCKED",
     "fake_100": false
   }
